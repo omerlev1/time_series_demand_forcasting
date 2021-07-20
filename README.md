@@ -1,1 +1,3 @@
-# time_series_demand_forcasting
+# Taxi rides forcasting
+
+Forcasting the demand for taxi rides. 
