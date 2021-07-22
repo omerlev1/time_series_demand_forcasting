@@ -1,3 +1,3 @@
 # Taxi rides forcasting
 
-Forcasting the demand for taxi rides. 
+Forcasting the demand of taxi rides using XGBoost classifier and SARIMA model.
